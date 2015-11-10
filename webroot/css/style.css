@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+	text-align: center;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+#logo{
+    background-image: url("../img/pizza_1.jpg") !important;
+	/*height: 100%; !important; */
+	font-size: 8vw !important;
+    font-weight: 800 !important;  
+    color: yellow!important;
+}
+
+#logo p{
+	margin-top : 5%; !important;
+	background-color: black; !important;
+	opacity: 0.6; !important;
+}
+
+div{
+	text-align: left;
+	padding: 5px;
+}
+
+button{
+	padding: 5px;
+}

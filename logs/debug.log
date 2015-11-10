@@ -1,0 +1,1970 @@
+2015-10-22 19:54:52 Notice: Notice (8): Undefined variable: articles in [C:\xampp\htdocs\Lab\src\Template\Articles\edit.ctp, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\edit.ctp, line 15
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-22 19:55:10 Notice: Notice (8): Undefined variable: articles in [C:\xampp\htdocs\Lab\src\Template\Articles\edit.ctp, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Articles\edit.ctp, line 15
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 14:45:11 Notice: Notice (8): Undefined variable: articles in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:01:43 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 5]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 5
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:06:01 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:09:47 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:19:58 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:21:12 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 19]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::initialize() - APP/Controller\CustomersController.php, line 19
+Cake\Controller\Controller::__construct() - CORE\src\Controller\Controller.php, line 262
+ReflectionClass::newInstance() - [internal], line ??
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 91
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:24:05 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 19]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::initialize() - APP/Controller\CustomersController.php, line 19
+Cake\Controller\Controller::__construct() - CORE\src\Controller\Controller.php, line 262
+ReflectionClass::newInstance() - [internal], line ??
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 91
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:25:13 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:26:12 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:29:46 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:31:45 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:32:21 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:34:15 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:34:20 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:34:28 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:36:10 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:36:49 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:36:49 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 8
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:38:52 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 7
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 15:38:52 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\add.ctp, line 8]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\add.ctp, line 8
+include - APP/Template\Customers\index.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 16:49:42 Notice: Notice (8): Use of undefined constant province - assumed 'province' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 57]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 17:14:28 Notice: Notice (8): Use of undefined constant province - assumed 'province' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 17:15:42 Notice: Notice (8): Use of undefined constant province - assumed 'province' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 17:18:02 Notice: Notice (8): Use of undefined constant province - assumed 'province' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 59]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 59
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 17:18:20 Notice: Notice (8): Use of undefined constant province - assumed 'province' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 59]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 59
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 17:23:40 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 57]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 17:25:07 Notice: Notice (8): Use of undefined constant province - assumed 'province' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-28 17:25:23 Notice: Notice (8): Use of undefined constant province - assumed 'province' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 13:00:48 Notice: Notice (8): Undefined variable: customer in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\add.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\add.ctp, line 7
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 14:00:22 Notice: Notice (8): Undefined variable: form in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\add.ctp, line 43]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\add.ctp, line 43
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 14:05:37 Notice: Notice (8): Undefined index: province in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 57]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 57
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 14:59:59 Notice: Notice (8): Undefined variable: _SESSION in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 15:04:35 Notice: Notice (8): Undefined variable: _SESSION in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 15:39:59 Notice: Notice (8): Undefined variable: session in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 58]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 58
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 15:50:20 Notice: Notice (8): Undefined variable: session in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 65]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 65
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 15:51:35 Notice: Notice (8): Use of undefined constant id - assumed 'id' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 64]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 64
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 15:52:19 Notice: Notice (8): Use of undefined constant id - assumed 'id' in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 64]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 64
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 15:58:16 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 60]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 60
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 15:58:45 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 60]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 60
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:05:36 Notice: Notice (8): Undefined variable: session in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 78]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 78
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:06:11 Notice: Notice (8): Undefined variable: session in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 78]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 78
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:21:38 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:35:19 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:36:47 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:39:12 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:40:26 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:41:22 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:42:31 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with Cake\Controller\Controller::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:44:47 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:45:10 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 17:45:14 Notice: Strict (2048): Declaration of App\Controller\UsersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\UsersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 18:11:20 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 13
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 18:28:26 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 170]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::complete() - APP/Controller\OrdersController.php, line 170
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 18:28:42 Notice: Notice (8): Undefined index: completed in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 170]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::complete() - APP/Controller\OrdersController.php, line 170
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 18:39:36 Notice: Notice (8): Undefined index: action in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 170]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::complete() - APP/Controller\OrdersController.php, line 170
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 18:39:36 Notice: Notice (8): Undefined index: action in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 171]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::complete() - APP/Controller\OrdersController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 18:48:58 Notice: Strict (2048): Declaration of App\Controller\OrdersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\OrdersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 18:54:17 Notice: Notice (8): Undefined variable: user in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 144]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::edit() - APP/Controller\OrdersController.php, line 144
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 19:14:10 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Element\Flash\success.ctp, line 1]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Element\Flash\success.ctp, line 1
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1310
+Cake\View\View::element() - CORE\src\View\View.php, line 484
+Cake\View\Helper\FlashHelper::render() - CORE\src\View\Helper\FlashHelper.php, line 89
+include - APP/Template\Layout\default.ctp, line 50
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::renderLayout() - CORE\src\View\View.php, line 624
+Cake\View\View::render() - CORE\src\View\View.php, line 583
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 19:14:43 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 94]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::add() - APP/Controller\OrdersController.php, line 94
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 21:38:26 Notice: Notice (8): Undefined variable: user in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 54]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 21:38:26 Notice: Notice (8): Undefined offset: 0 in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 55]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 55
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 21:38:26 Notice: Notice (8): Undefined variable: user in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 56
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 21:43:18 Notice: Notice (8): Undefined offset: 0 in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 56
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 21:45:06 Notice: Notice (8): Undefined offset: 0 in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 56]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 56
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 21:45:06 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 13]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 13
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 21:45:06 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 46]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 46
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:26:04 Notice: Notice (8): Undefined variable: user in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 73]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::addCustomer() - APP/Controller\UsersController.php, line 73
+App\Controller\UsersController::add() - APP/Controller\UsersController.php, line 63
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:30:27 Notice: Notice (8): Object of class App\Model\Entity\User could not be converted to int in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 65]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::add() - APP/Controller\CustomersController.php, line 65
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:33:03 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:33:03 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:34:55 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:34:55 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:35:40 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:35:40 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:36:03 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:36:04 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:36:26 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:36:26 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:44:36 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:44:36 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:45:16 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:45:16 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:45:38 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:45:38 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:46:05 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\OrdersController.php, line 55]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 55
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:46:05 Notice: Notice (8): Undefined variable: orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 14
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:46:05 Notice: Notice (8): Undefined variable: completed_orders in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\index.ctp, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\index.ctp, line 47
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:57:29 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 22:57:29 Notice: Notice (8): Undefined property: Cake\ORM\Query::$id in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:02:02 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:02:31 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:03:00 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:03:00 Notice: Notice (8): Undefined property: Cake\ORM\Query::$id in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:03:12 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:03:12 Notice: Notice (8): Undefined property: Cake\ORM\Query::$id in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:03:34 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:03:34 Notice: Notice (8): Undefined property: Cake\ORM\Query::$id in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:04:26 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:04:27 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+Cake\Auth\Storage\SessionStorage::read() - CORE\src\Auth\Storage\SessionStorage.php, line 85
+Cake\Controller\Component\AuthComponent::user() - CORE\src\Controller\Component\AuthComponent.php, line 665
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:04:45 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:04:45 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+Cake\Auth\Storage\SessionStorage::read() - CORE\src\Auth\Storage\SessionStorage.php, line 85
+Cake\Controller\Component\AuthComponent::user() - CORE\src\Controller\Component\AuthComponent.php, line 665
+App\Controller\OrdersController::index() - APP/Controller\OrdersController.php, line 54
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:05:38 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:05:39 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:21 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:21 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:22 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:22 Notice: Notice (8): session_start() [<a href='http://php.net/function.session-start'>function.session-start</a>]: Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:30 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 35]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 35
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:30 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 36]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 36
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:31 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:06:31 Notice: Notice (8): session_start() [<a href='http://php.net/function.session-start'>function.session-start</a>]: Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:07:02 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:07:02 Notice: Notice (8): session_start() [<a href='http://php.net/function.session-start'>function.session-start</a>]: Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:07:05 Notice: Notice (8): Undefined variable: content in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1310
+Cake\View\View::element() - CORE\src\View\View.php, line 484
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Panels\view.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:07:16 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:07:16 Notice: Notice (8): session_start() [<a href='http://php.net/function.session-start'>function.session-start</a>]: Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:07:19 Notice: Notice (8): Undefined variable: content in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1310
+Cake\View\View::element() - CORE\src\View\View.php, line 484
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Panels\view.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:07:39 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:08:19 Notice: Notice (8): Undefined variable: content in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1310
+Cake\View\View::element() - CORE\src\View\View.php, line 484
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Panels\view.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:08:56 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:09:00 Notice: Notice (8): Undefined variable: content in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1310
+Cake\View\View::element() - CORE\src\View\View.php, line 484
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Panels\view.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:09:42 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:10:34 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:10:34 Notice: Notice (8): session_start() [<a href='http://php.net/function.session-start'>function.session-start</a>]: Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:11:12 Notice: Notice (8): session_start(): Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:11:12 Notice: Notice (8): session_start() [<a href='http://php.net/function.session-start'>function.session-start</a>]: Unexpected end of serialized data in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\cakephp\src\Network\Session.php, line 324]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+session_start - [internal], line ??
+Cake\Network\Session::start() - CORE\src\Network\Session.php, line 324
+Cake\Network\Session::read() - CORE\src\Network\Session.php, line 385
+DebugKit\Panel\SessionPanel::shutdown() - ROOT\vendor\cakephp\debug_kit\src\Panel\SessionPanel.php, line 35
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 385
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Controller\Controller::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Controller\Controller::shutdownProcess() - CORE\src\Controller\Controller.php, line 512
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 125
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:11:55 Notice: Notice (8): Undefined variable: content in [C:\wamp\www\WebTechnologies\Pizzeria\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Element\session_panel.ctp, line 15
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::_renderElement() - CORE\src\View\View.php, line 1310
+Cake\View\View::element() - CORE\src\View\View.php, line 484
+include - ROOT\vendor\cakephp\debug_kit\src\Template\Panels\view.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:17:18 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 37]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 37
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:18:28 Notice: Notice (8): Undefined index: id in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 37]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 37
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-01 23:18:34 Notice: Notice (8): Undefined index: id in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 37]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 37
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-02 20:26:15 Notice: Notice (8): Undefined offset: 0 in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 38]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 38
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-02 20:26:15 Notice: Notice (8): Undefined offset: 0 in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\UsersController.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\UsersController::login() - APP/Controller\UsersController.php, line 39
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-02 20:33:33 Notice: Strict (2048): Declaration of App\Controller\CustomersController::beforeFilter() should be compatible with App\Controller\AppController::beforeFilter(Cake\Event\Event $event) in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Controller\CustomersController.php, line 12
+Composer\Autoload\includeFile - ROOT\vendor\composer\ClassLoader.php, line 412
+Composer\Autoload\ClassLoader::loadClass() - ROOT\vendor\composer\ClassLoader.php, line 301
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+Cake\Core\App::_classExistsInBase() - CORE\src\Core\App.php, line 87
+Cake\Core\App::className() - CORE\src\Core\App.php, line 64
+Cake\Routing\Filter\ControllerFactoryFilter::_getController() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 82
+Cake\Routing\Filter\ControllerFactoryFilter::beforeDispatch() - CORE\src\Routing\Filter\ControllerFactoryFilter.php, line 50
+Cake\Routing\DispatcherFilter::handle() - CORE\src\Routing\DispatcherFilter.php, line 145
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\Routing\Dispatcher::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 62
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-02 21:15:16 Notice: Notice (8): Array to string conversion in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Orders\view.ctp, line 16]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Orders\view.ctp, line 16
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-06 20:13:23 Notice: Notice (8): Undefined variable: user in [C:\wamp\www\WebTechnologies\Pizzeria\src\Controller\CustomersController.php, line 39]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Controller\CustomersController::index() - APP/Controller\CustomersController.php, line 39
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-06 20:13:23 Notice: Notice (8): Undefined variable: customers in [C:\wamp\www\WebTechnologies\Pizzeria\src\Template\Customers\index.ctp, line 12]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Customers\index.ctp, line 12
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
